@@ -1,0 +1,41 @@
+1. firstly create folder named "code" in e:\
+2.open vs code
+3 open folder "code"
+4 open terminal window in vs code
+5 write command "npm create vite@latest" hit enter
+6 enter project name "client"
+7 enter framework "react"
+8 enter langauge "java script"
+9 cd client directory
+10 run command "npm install"
+11 run command " npm run dev" (copy host address "http://localhost:5173/" and paste it in browser to run output)
+12 right click on src and create folder named "components"
+13 right click on components and create two folders named "signup" and "Login"
+14 right click on folder "Login" and two files created named "Login.jsx" and "Login.jsx"
+
+
+for server:
+1 create folder server under project code
+2 open vs code
+3 open folder server
+4 under terminal window , under server folder run command" npm init"
+5 package.json file automatically created. some changes done in this file.
+6 create file named "index.js" in server directory(this index.js file is entry point of server)
+7 run command " npm install express" under server
+and press enter and enter simply. not enter anything else.
+8 run command"npm start"
+9 run command "npm install nodemon" (for real time updation in output)
+10 run command "npm install mongoose" in server directory
+11 axios use to call api from server
+12 run command " npm install axios" under client directory
+ 
+
+
+
+
+
+
+
+
+
+
